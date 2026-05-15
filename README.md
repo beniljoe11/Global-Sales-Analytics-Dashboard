@@ -53,16 +53,7 @@ Focused on:
 - Profit trends highlighted high-performing and low-performing regions
 - Customer distribution analysis provided valuable market insights
 - Product category analysis helped identify business opportunities
-
-## Dashboard Preview
-
-### Dashboard 1
-
-![Dashboard 1](Screenshot 2026-05-15 064307.jpg)
-
-### Dashboard 2
-
-![Dashboard 2](Screenshot 2026-05-15 064419.jpg)
+- 
 
 ## Repository Structure
 
